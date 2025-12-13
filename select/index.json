@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "アンビバレント",
+  "base_artist": "Keyakizaka46",
+  "createdAt": "2025-12-13T09:37:45.973612Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンビバレント",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_アンビバレント_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンビバレント",
+      "artist": "Eve (57)",
+      "has_synced": true,
+      "path": "select/02_アンビバレント_Eve_(57).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アンビバレント",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/03_アンビバレント_Uru.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アンビバレント",
+      "artist": "Keyakizaka46",
+      "has_synced": true,
+      "path": "select/04_アンビバレント_Keyakizaka46.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アンビバレント - Ambivalent",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/05_アンビバレント_-_Ambivalent_Uru.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アンビバレント - Eve MV",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/06_アンビバレント_-_Eve_MV_Eve.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アンビバレント",
+      "artist": "ヰ世界情緒",
+      "has_synced": true,
+      "path": "select/07_アンビバレント_ヰ世界情緒.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アンビバレント (Ambivalent) instrumental",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/08_アンビバレント_(Ambivalent)_instrumental_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンビバレント",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_01_アンビバレント_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "アンビバレント",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_02_アンビバレント_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "アンビバレント",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_03_アンビバレント_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "アンビバレント",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_04_アンビバレント_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "アンビバレント",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_05_アンビバレント_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "アンビバレント",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_06_アンビバレント_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "アンビバレント",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_07_アンビバレント_欅坂46.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "アンビバレント",
+      "artist": "欅坂46",
+      "has_synced": false,
+      "path": "select/pl_08_アンビバレント_欅坂46.txt"
+    }
+  ]
+}
